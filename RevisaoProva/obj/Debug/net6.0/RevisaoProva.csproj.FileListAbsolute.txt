@@ -1,0 +1,15 @@
+C:\Users\2022102020030\source\repos\RevisaoProva\RevisaoProva\bin\Debug\net6.0\RevisaoProva.exe
+C:\Users\2022102020030\source\repos\RevisaoProva\RevisaoProva\bin\Debug\net6.0\RevisaoProva.deps.json
+C:\Users\2022102020030\source\repos\RevisaoProva\RevisaoProva\bin\Debug\net6.0\RevisaoProva.runtimeconfig.json
+C:\Users\2022102020030\source\repos\RevisaoProva\RevisaoProva\bin\Debug\net6.0\RevisaoProva.dll
+C:\Users\2022102020030\source\repos\RevisaoProva\RevisaoProva\bin\Debug\net6.0\RevisaoProva.pdb
+C:\Users\2022102020030\source\repos\RevisaoProva\RevisaoProva\obj\Debug\net6.0\RevisaoProva.csproj.AssemblyReference.cache
+C:\Users\2022102020030\source\repos\RevisaoProva\RevisaoProva\obj\Debug\net6.0\RevisaoProva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020030\source\repos\RevisaoProva\RevisaoProva\obj\Debug\net6.0\RevisaoProva.AssemblyInfoInputs.cache
+C:\Users\2022102020030\source\repos\RevisaoProva\RevisaoProva\obj\Debug\net6.0\RevisaoProva.AssemblyInfo.cs
+C:\Users\2022102020030\source\repos\RevisaoProva\RevisaoProva\obj\Debug\net6.0\RevisaoProva.csproj.CoreCompileInputs.cache
+C:\Users\2022102020030\source\repos\RevisaoProva\RevisaoProva\obj\Debug\net6.0\RevisaoProva.dll
+C:\Users\2022102020030\source\repos\RevisaoProva\RevisaoProva\obj\Debug\net6.0\refint\RevisaoProva.dll
+C:\Users\2022102020030\source\repos\RevisaoProva\RevisaoProva\obj\Debug\net6.0\RevisaoProva.pdb
+C:\Users\2022102020030\source\repos\RevisaoProva\RevisaoProva\obj\Debug\net6.0\RevisaoProva.genruntimeconfig.cache
+C:\Users\2022102020030\source\repos\RevisaoProva\RevisaoProva\obj\Debug\net6.0\ref\RevisaoProva.dll
